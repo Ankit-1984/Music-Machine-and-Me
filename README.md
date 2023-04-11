@@ -1,10 +1,10 @@
-# Music&me Chatbot Song Recommender System
+# Music Machine & Me Chatbot Song Recommender System
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/82326026/132090844-b7567cf9-2080-407a-8e1c-28700eb7b339.png" alt="Logo" width="250" height="80">
 </p>
 <p align="center">
-Music&me Chatbot Song Recommender System
+Music Machine & Me Chatbot Song Recommender System
 </p>  
   
   
@@ -49,12 +49,9 @@ In this project, we would be combining multiple services and open-source tools t
 * Based on the Emotion which the app perceives ,top songs are retrieved using **[Last.fm songs API](https://www.last.fm/)**.
 * Vibe along with the songs! 
 
-YOUTUBE LINK OF THE PROJECT 
-
-https://www.youtube.com/watch?v=aMF5vDRghFo
 
 
-### Built With
+### Built With help of
   
 * User Interface  - **[ANVIL Framework](https://anvil.works/)**
 * Emotional Analysis - **[IBM Tone Analyzer API](https://tone-analyzer-demo.ng.bluemix.net/)**  
@@ -63,7 +60,7 @@ https://www.youtube.com/watch?v=aMF5vDRghFo
 ## Getting Started
 Fork and clone this repository in your local system.
  ```sh
-git clone https://github.com/Srishti20022/Music-me-Chatbot_song_recommendor_system-.git
+git clone https://github.com/Ankit-1984/Music-Machine-and-Me-Chatbot_song_recommendor_system-.git
  ```
 ### Installation
 1. Create an account on [IBM Cloud](https://cloud.ibm.com/) (It's free)
@@ -93,15 +90,12 @@ Contributions are what make the open source community such an amazing place to l
 5. Open a Pull Request.
 
 ## Contact
-- [Komal Sangwan](https://github.com/KomalSangwan): Frontend Developer
+- [Ankit Anand](https://github.com/Ankit-1984): Frontend Developer
    
-   LinkedIn - https://www.linkedin.com/in/komal-sangwan-27a054208/
-- [Riya Chaudhary](https://github.com/RiyaGit06): Backend Developer
+   LinkedIn - https://www.linkedin.com/in/ankit-anand-964673202/
+- [Ankit Anand](https://github.com/Ankit-1984): Backend Developer
     
-    LinkedIn - https://www.linkedin.com/in/riya-chaudhary-a13884216/
-- [Srishti Gupta](https://github.com/Srishti20022): Backend Developer
-    
-    LinkedIn - https://www.linkedin.com/in/srishti-gupta-7250b8203/
+    LinkedIn - https://www.linkedin.com/in/ankit-anand-964673202/
     
 ## Acknowledgements
 
